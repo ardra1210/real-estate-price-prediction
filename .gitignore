@@ -5,5 +5,8 @@ __pycache__/
 
 .virtual_documents/
 anaconda_projects/
+.idea/
+.postman/
+postman/
 
 Untitled.ipynb
