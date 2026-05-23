@@ -76,6 +76,9 @@ Supervised Regression — Linear Regression
 
 # 🏗️ Project Architecture
 
+# 🏗️ Project Architecture
+
+```text
 User (Browser)
       │
       ▼
@@ -85,10 +88,11 @@ Frontend UI (HTML/CSS/JS)
 Flask REST API
       │
       ▼
-Machine Learning Model(Pickle) + Feature Metadata(JSON)
+Machine Learning Model (Pickle) + Feature Metadata (JSON)
       │
       ▼
 Predicted House Price
+```
 
 # Technical Highlights
 
