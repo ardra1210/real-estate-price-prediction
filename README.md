@@ -76,8 +76,6 @@ Supervised Regression — Linear Regression
 
 # 🏗️ Project Architecture
 
-# 🏗️ Project Architecture
-
 ```text
 User (Browser)
       │
