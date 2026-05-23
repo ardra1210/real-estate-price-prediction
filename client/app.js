@@ -1,3 +1,6 @@
+alert("APP JS LOADED");
+console.log("app.js loaded");
+
 function getBathValue() {
     var uiBathrooms = document.getElementsByName("uiBathrooms");
     for(var i in uiBathrooms) {
